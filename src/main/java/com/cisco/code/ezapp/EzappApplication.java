@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
+// Adding a comment for the sake of testing
 public class EzappApplication {
 
 	public static void main(String[] args) {
